@@ -1,0 +1,14 @@
+C:\Users\Bako-PC\source\repos\testeststersdfdsdsfs\testeststersdfdsdsfs\bin\Debug\netcoreapp3.1\testeststersdfdsdsfs.exe
+C:\Users\Bako-PC\source\repos\testeststersdfdsdsfs\testeststersdfdsdsfs\bin\Debug\netcoreapp3.1\testeststersdfdsdsfs.deps.json
+C:\Users\Bako-PC\source\repos\testeststersdfdsdsfs\testeststersdfdsdsfs\bin\Debug\netcoreapp3.1\testeststersdfdsdsfs.runtimeconfig.json
+C:\Users\Bako-PC\source\repos\testeststersdfdsdsfs\testeststersdfdsdsfs\bin\Debug\netcoreapp3.1\testeststersdfdsdsfs.runtimeconfig.dev.json
+C:\Users\Bako-PC\source\repos\testeststersdfdsdsfs\testeststersdfdsdsfs\bin\Debug\netcoreapp3.1\testeststersdfdsdsfs.dll
+C:\Users\Bako-PC\source\repos\testeststersdfdsdsfs\testeststersdfdsdsfs\bin\Debug\netcoreapp3.1\testeststersdfdsdsfs.pdb
+C:\Users\Bako-PC\source\repos\testeststersdfdsdsfs\testeststersdfdsdsfs\obj\Debug\netcoreapp3.1\testeststersdfdsdsfs.csproj.AssemblyReference.cache
+C:\Users\Bako-PC\source\repos\testeststersdfdsdsfs\testeststersdfdsdsfs\obj\Debug\netcoreapp3.1\testeststersdfdsdsfs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bako-PC\source\repos\testeststersdfdsdsfs\testeststersdfdsdsfs\obj\Debug\netcoreapp3.1\testeststersdfdsdsfs.AssemblyInfoInputs.cache
+C:\Users\Bako-PC\source\repos\testeststersdfdsdsfs\testeststersdfdsdsfs\obj\Debug\netcoreapp3.1\testeststersdfdsdsfs.AssemblyInfo.cs
+C:\Users\Bako-PC\source\repos\testeststersdfdsdsfs\testeststersdfdsdsfs\obj\Debug\netcoreapp3.1\testeststersdfdsdsfs.csproj.CoreCompileInputs.cache
+C:\Users\Bako-PC\source\repos\testeststersdfdsdsfs\testeststersdfdsdsfs\obj\Debug\netcoreapp3.1\testeststersdfdsdsfs.dll
+C:\Users\Bako-PC\source\repos\testeststersdfdsdsfs\testeststersdfdsdsfs\obj\Debug\netcoreapp3.1\testeststersdfdsdsfs.pdb
+C:\Users\Bako-PC\source\repos\testeststersdfdsdsfs\testeststersdfdsdsfs\obj\Debug\netcoreapp3.1\testeststersdfdsdsfs.genruntimeconfig.cache
