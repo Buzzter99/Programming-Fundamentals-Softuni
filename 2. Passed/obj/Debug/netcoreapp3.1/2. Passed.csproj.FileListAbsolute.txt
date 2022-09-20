@@ -1,0 +1,14 @@
+C:\Users\Bako-PC\source\repos\2. Passed\bin\Debug\netcoreapp3.1\2. Passed.exe
+C:\Users\Bako-PC\source\repos\2. Passed\bin\Debug\netcoreapp3.1\2. Passed.deps.json
+C:\Users\Bako-PC\source\repos\2. Passed\bin\Debug\netcoreapp3.1\2. Passed.runtimeconfig.json
+C:\Users\Bako-PC\source\repos\2. Passed\bin\Debug\netcoreapp3.1\2. Passed.runtimeconfig.dev.json
+C:\Users\Bako-PC\source\repos\2. Passed\bin\Debug\netcoreapp3.1\2. Passed.dll
+C:\Users\Bako-PC\source\repos\2. Passed\bin\Debug\netcoreapp3.1\2. Passed.pdb
+C:\Users\Bako-PC\source\repos\2. Passed\obj\Debug\netcoreapp3.1\2. Passed.csproj.AssemblyReference.cache
+C:\Users\Bako-PC\source\repos\2. Passed\obj\Debug\netcoreapp3.1\2. Passed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bako-PC\source\repos\2. Passed\obj\Debug\netcoreapp3.1\2. Passed.AssemblyInfoInputs.cache
+C:\Users\Bako-PC\source\repos\2. Passed\obj\Debug\netcoreapp3.1\2. Passed.AssemblyInfo.cs
+C:\Users\Bako-PC\source\repos\2. Passed\obj\Debug\netcoreapp3.1\2. Passed.csproj.CoreCompileInputs.cache
+C:\Users\Bako-PC\source\repos\2. Passed\obj\Debug\netcoreapp3.1\2. Passed.dll
+C:\Users\Bako-PC\source\repos\2. Passed\obj\Debug\netcoreapp3.1\2. Passed.pdb
+C:\Users\Bako-PC\source\repos\2. Passed\obj\Debug\netcoreapp3.1\2. Passed.genruntimeconfig.cache
